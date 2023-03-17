@@ -3,7 +3,7 @@ import Typewriter from 'typewriter-effect';
 import {AiFillLinkedin,AiOutlineMail,AiFillGithub} from "react-icons/ai"
 import {BsEye} from 'react-icons/bs';
 import Image from 'next/image';
-  import biker from '../public/subject.png';
+  import biker from '../public/Subject.png';
 const HomePage = () => {
   return (
     <div>
