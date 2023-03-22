@@ -29,52 +29,43 @@ const Portfolio = () => {
                      <Image src={csm} alt="image of the computer science homepage" className='rounded-md duration-200 '/>
                      <h1 className='py-3 text-xs text-center sm:text-lg'>Computer Science Club </h1>
                      <div className='flex items-center justify-center '>
-                       <button className=' m-4 text-4xl duration-200 hover:text-orange-400 hover:scale-105 md:text-4xl dark:text-white dark:hover:text-rose-800'><a href="#"><AiOutlineLaptop /></a></button>
-                       <button className=' m-4 text-4xl duration-200 hover:text-green-400 hover:scale-105 md:text-4xl dark:text-white dark:hover:text-rose-800'><a href="https://github.com/Greenoni119/cs-club-website"><AiFillGithub /></a></button>
+                       <button className=' m-4 text-4xl duration-200 hover:text-orange-400 hover:scale-105 md:text-4xl dark:text-white dark:hover:text-rose-800'><a href="https://csmcomputerscienclub.com" target="_blank" rel="noreferrer"><AiOutlineLaptop /></a></button>
+                       <button className=' m-4 text-4xl duration-200 hover:text-green-400 hover:scale-105 md:text-4xl dark:text-white dark:hover:text-rose-800'><a href="https://github.com/Greenoni119/cs-club-website" target="_blank" rel="noreferrer"><AiFillGithub /></a></button>
                      </div>
                    </div>
-                  
-                   
                   
                     <div className='shadow-md shadow-orange-500 rounded-xl hover:scale-105 duration-200 dark:shadow-cyan-500'>
                      <Image src={foody} alt="image of foody homepage" className='rounded-md duration-200 '/>
                      <h1 className='py-3 text-xs text-center sm:text-lg'>Foody</h1>
                      <div className='flex items-center justify-center '>
                   
-                       <button className='  m-4 text-4xl duration-200 hover:text-orange-400 hover:scale-105 md:text-4xl dark:text-white dark:hover:text-rose-800'><a href="#"><AiOutlineLaptop /></a></button>
-                       <button className='   m-4 text-4xl duration-200 hover:text-green-400 hover:scale-105 md:text-4xl dark:text-white dark:hover:text-rose-800'><a href="https://github.com/Greenoni119/Foody"><AiFillGithub /></a></button>
+                       <button className='  m-4 text-4xl duration-200 hover:text-orange-400 hover:scale-105 md:text-4xl dark:text-white dark:hover:text-rose-800'><a href="https://foody-teal.vercel.app/" target="_blank" rel="noreferrer"><AiOutlineLaptop /></a></button>
+                       <button className='   m-4 text-4xl duration-200 hover:text-green-400 hover:scale-105 md:text-4xl dark:text-white dark:hover:text-rose-800'><a href="https://github.com/Greenoni119/Foody" target="_blank" rel="noreferrer"><AiFillGithub /></a></button>
                      </div>
                    </div>
-                  
-  
-                  
-                   
 
-                   
-                      <div className=' shadow-md shadow-orange-500 rounded-xl hover:scale-105 duration-200 dark:shadow-cyan-500'>
-                     <Image src={bnm} alt="image of boards n more homepage" className='rounded-md duration-200 '/>
-                     <h1 className='py-3 text-xs text-center sm:text-lg'>Boards N More</h1>
-                     <div className='flex items-center justify-center '>
-                  
-                       <button className='  m-4 text-4xl duration-200 hover:text-orange-400 hover:scale-105 md:text-4xl dark:text-white dark:hover:text-rose-800'><a href="#"><AiOutlineLaptop /></a></button>
-                       <button className='   m-4 text-4xl duration-200 hover:text-green-400 hover:scale-105 md:text-4xl dark:text-white dark:hover:text-rose-800'><a href="https://github.com/Greenoni119/skateshop"><AiFillGithub /></a></button>
-                     </div>
-                   </div>
+                      
   
-                  
-                   
-                  
                       <div className=' shadow-md shadow-orange-500 rounded-xl hover:scale-105 duration-200 dark:shadow-cyan-500'>
                      <Image src={ogps} alt="image of OGPS homepage" className='rounded-md duration-200 '/>
                      <h1 className='py-3 text-xs text-center sm:text-lg'>Old Guys Pool Service</h1>
                      <div className='flex items-center justify-center '>
                   
-                       <button className='  m-4 text-4xl duration-200 hover:text-orange-400 hover:scale-105 md:text-4xl dark:text-white dark:hover:text-rose-800'><a href="#"><AiOutlineLaptop /></a></button>
-                       <button className='   m-4 text-4xl duration-200 hover:text-green-400 hover:scale-105 md:text-4xl dark:text-white dark:hover:text-rose-800'><a href="https://github.com/Greenoni119/--Old-Guys-Pool-Service"><AiFillGithub /></a></button>
+                       <button className='  m-4 text-4xl duration-200 hover:text-orange-400 hover:scale-105 md:text-4xl dark:text-white dark:hover:text-rose-800'><a href="https://old-guys-pool-service.vercel.app" target="_blank" rel="noreferrer"><AiOutlineLaptop /></a></button>
+                       <button className='   m-4 text-4xl duration-200 hover:text-green-400 hover:scale-105 md:text-4xl dark:text-white dark:hover:text-rose-800'><a href="https://github.com/Greenoni119/--Old-Guys-Pool-Service" target="_blank" rel="noreferrer"><AiFillGithub /></a></button>
+                     </div> 
+                  </div>
+  
+                <div className=' shadow-md shadow-orange-500 rounded-xl hover:scale-105 duration-200 dark:shadow-cyan-500'>
+                     <Image src={bnm} alt="image of boards n more homepage" className='rounded-md duration-200 '/>
+                     <h1 className='py-3 text-xs text-center sm:text-lg'>COMING SOON</h1>
+                     
+                     <div className='flex items-center justify-center '>
+                  
+                       
+                       <button className='   m-4 text-4xl duration-200 hover:text-green-400 hover:scale-105 md:text-4xl dark:text-white dark:hover:text-rose-800'><a href="https://github.com/Greenoni119/skateshop" target="_blank" rel="noreferrer"><AiFillGithub /></a></button>
                      </div>
                    </div>
-  
-                
                    
                    
               </div>
