@@ -38,7 +38,7 @@ const HomePage = () => {
               <li>  
                
                 <div className='border-4 rounded-2xl border-orange-500 text-center h-25 justify-center p-2 hover:text-purple-500 hover:scale-105 duration-500'>
-                 <a href="../resume.pdf" target="_blank" rel="noreferrer"> <BsEye className='mx-auto text-xl lg:text-5xl'/>
+                 <a href="../resume.jpeg" target="_blank" rel="noreferrer"> <BsEye className='mx-auto text-xl lg:text-5xl'/>
                 <h1 className='py-3'> Resume </h1></a>
                 </div>
               
