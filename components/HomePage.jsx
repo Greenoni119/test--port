@@ -7,7 +7,7 @@ import Image from 'next/image';
 const HomePage = () => {
   return (
     <div>
-<div name='Home' className=' pt-5 items-center flex flex-col xl:flex-row :flex-wrap justify-center w-full lg:pt-20 xl:pt-80 xl:pb-60 bg-stone-700'>
+<div name='Home' className=' pt-5 items-center flex flex-col xl:flex-row :flex-wrap justify-center w-full lg:pt-20 xl:h-screen bg-stone-700'>
 
 
         <div className=''>
