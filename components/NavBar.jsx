@@ -36,7 +36,7 @@ return (
         <link rel="icon" href="/favicon.ico" />
       </Head>
       
-       <div className=' px-4 flex justify-between items-center w-full h-20 fixed bg-stone-700 opacity-90 z-10 dark:bg-violet-900'>
+       <div className=' px-4 flex justify-between items-center w-full h-10 fixed bg-stone-700 opacity-90 z-10 dark:bg-violet-900'>
             <div className='opacity-0'>
             <GiMoonOrbit onClick={()=> setDarkMode(!darkMode)} className="cursor-pointer text-5xl text-neutral-400 dark:text-rose-800"/>
             </div>

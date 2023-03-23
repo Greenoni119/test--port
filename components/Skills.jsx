@@ -19,7 +19,7 @@ const Skills = () => {
   return (
    <div>
 
-              <div name='Skills' className=' h-screen items-center w-full  bg-stone-700 dark:bg-violet-900'>
+              <div name='Skills' className=' pt-5 items-center w-full lg:h-screen bg-stone-700 dark:bg-violet-900'>
                       <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-neutral-400'>
 
                           <div>
@@ -28,12 +28,12 @@ const Skills = () => {
                               <p className='text-4xl text-neutral-500 font-bold border-b-4 border-orange-500 p-2 inline sm:text-5xl dark:text-rose-800 dark:border-cyan-500'> Skills </p>
                               </div>
                               
-                             <div><p className='py-8 text-neutral-500 text-sm sm:text-xl dark:text-white'> These are the technologies i use </p></div>
+                             <div><p className='py-6 text-neutral-500 text-sm sm:text-xl dark:text-white'> These are the technologies i use </p></div>
                               
                               
                           </div>
                           
-                          <div className='w-full grid grid-cols-3 sm:grid-cols-3 gap-5 text-center py-8 sm:px-0'>
+                          <div className='w-full grid grid-cols-3 sm:grid-cols-3 gap-5 text-center py-2 sm:px-0'>
               
               <div className={'shadow-md hover:scale-105 duration-500 shadow-orange-500 rounded-2xl dark:shadow-cyan-500'}>
               <SiHtml5 className='text-2xl mx-auto mt-8 lg:text-5xl dark:text-rose-800'/>

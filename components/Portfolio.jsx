@@ -10,7 +10,7 @@ const Portfolio = () => {
   return (
     <div>
         
-          <div name='Projects' className='h-screen items-center bg-stone-700 w-full pt-60 dark:bg-violet-900 pb-40'>
+          <div name='Projects' className=' items-center bg-stone-700 w-full pt-20 lg:h-screen dark:bg-violet-900 pb-40'>
           
  <div className='max-w-screen-2xl mx-auto p-4 flex flex-col justify-center w-full h-full text-neutral-400'>
  
